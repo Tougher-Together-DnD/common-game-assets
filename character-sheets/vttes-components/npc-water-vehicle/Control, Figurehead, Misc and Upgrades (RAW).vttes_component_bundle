@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "type": "vttes_component_bundle",
+  "components": [
+    {
+      "name": "Control: Helm",
+      "type": "NPC Action",
+      "repeating_id": "-MlGustvBc0GZ5WW6gyz",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_name",
+          "current": "Control: Helm",
+          "max": "",
+          "id": "-MlGustvBc0G_5WW6gz-"
+        },
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_description",
+          "current": "Armor Class 18 \nHit Points 50\n\nMove up to the speed of its sails, with one 90-degree \nturn. If the helm is destroyed, the ship can’t turn. ",
+          "max": "",
+          "id": "-MlGustxXrU2CZkbcm8u"
+        },
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_attack_tohitrange",
+          "current": "+0",
+          "max": "",
+          "id": "-MlGustyZjRaQGiY2Znj"
+        },
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_attack_onhit",
+          "current": "",
+          "max": "",
+          "id": "-MlGustzAmJAgtfH3Bd3"
+        },
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_damage_flag",
+          "current": "",
+          "max": "",
+          "id": "-MlGusu0roJnxEX6Y9zB"
+        },
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_attack_crit",
+          "current": "",
+          "max": "",
+          "id": "-MlGusu0roJnxEX6Y9zC"
+        },
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_attack_crit2",
+          "current": "",
+          "max": "",
+          "id": "-MlGusu1UnMpwnlJWq8U"
+        },
+        {
+          "name": "repeating_npcaction_-MlGustvBc0GZ5WW6gyz_rollbase",
+          "current": "@{wtype}&{template:npcaction} @{npc_name_flag} {{rname=@{name}}} {{description=@{show_desc}}} @{charname_output}",
+          "max": "",
+          "id": "-MlGusu2pm9t85rlrRd9"
+        }
+      ]
+    },
+    {
+      "name": "Bones of Endless Toil",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusu3U-RBaZg50uML",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusu3U-RBaZg50uML_description",
+          "current": "The bones of ancient, mysterious creatures festoon the ship. Potent runes crawl across these remains, emitting a sickly green radiance. When a humanoid dies aboard the ship, that creature must make a DC 12 Wisdom saving throw. On a successful save, it dies as normal. If it fails, it immediately rises as a zombie obedient to the ship’s captain. The zombie gains a working knowledge of the ship, allowing it to serve as a member of the crew. A number of creatures equal to the ship’s creature capacity can be animated in this manner at any given time.",
+          "max": "",
+          "id": "-MlGusu479fPiUr2ZoYd"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusu3U-RBaZg50uML_name",
+          "current": "Bones of Endless Toil",
+          "max": "",
+          "id": "-MlGusu479fPiUr2ZoYe"
+        }
+      ]
+    },
+    {
+      "name": "Figurehead Upgrades",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusu60XeLne6rW6Lq",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusu60XeLne6rW6Lq_description",
+          "current": "While figureheads are usually purely decorative, they might be magically treated to produce extraordinary effects. A ship can receive one figurehead upgrade.",
+          "max": "",
+          "id": "-MlGusu60XeLne6rW6Lr"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusu60XeLne6rW6Lq_name",
+          "current": "Figurehead Upgrades",
+          "max": "",
+          "id": "-MlGusu60XeLne6rW6Ls"
+        }
+      ]
+    },
+    {
+      "name": "Guardian Figurehead",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusu7gqDRSZa56xow",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusu7gqDRSZa56xow_description",
+          "current": "This figurehead depicts an armored knight. As an action, the ship can activate this item, causing it to animate as an iron golem. The golem acts on the ship’s turn when the captain uses one of the ship’s actions. The golem remains animated for 1 minute. At the end of that time, it teleports back to its position as a figurehead. Once a ship uses this action, it can’t use it again for 24 hours.",
+          "max": "",
+          "id": "-MlGusu7gqDRS_a56xox"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusu7gqDRSZa56xow_name",
+          "current": "Guardian Figurehead",
+          "max": "",
+          "id": "-MlGusu7gqDRS_a56xoy"
+        }
+      ]
+    },
+    {
+      "name": "Miscellaneous Upgrades",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusu7gqDRSZa56xoz",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusu7gqDRSZa56xoz_description",
+          "current": "The following upgrades don’t apply to a specific element of the ship. A ship can use any number of them, but it can gain a specific upgrade only once.",
+          "max": "",
+          "id": "-MlGusu7gqDRS_a56xp-"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusu7gqDRSZa56xoz_name",
+          "current": "Miscellaneous Upgrades",
+          "max": "",
+          "id": "-MlGusu9diYq1eqEVtOl"
+        }
+      ]
+    },
+    {
+      "name": "Red Dragon Figurehead",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusu9diYq1eqEVtOm",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusu9diYq1eqEVtOm_description",
+          "current": "This figurehead depicts a red dragon rearing to strike, its mouth open. As an action, the ship can activate this item to create a 60-foot cone of flame that originates from the figurehead. Each creature and object in the cone must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one. Once a ship uses this action, it can’t use it again for 1 minute.",
+          "max": "",
+          "id": "-MlGusu9diYq1eqEVtOn"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusu9diYq1eqEVtOm_name",
+          "current": "Red Dragon Figurehead",
+          "max": "",
+          "id": "-MlGusu9diYq1eqEVtOo"
+        }
+      ]
+    },
+    {
+      "name": "Smuggler’s Banner",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusu9diYq1eqEVtOp",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusu9diYq1eqEVtOp_name",
+          "current": "Smuggler’s Banner",
+          "max": "",
+          "id": "-MlGusu9diYq1eqEVtOq"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusu9diYq1eqEVtOp_description",
+          "current": "This flag is meant to be flown from a ship’s mast. Its powerful magic causes it to appear as a flag or banner displaying the symbol of a group, captain, or realm friendly to the viewer. Multiple viewers might see different flags or crests.\n\nThe banner’s true power is its ability to aid a ship in making rapid escapes. As an action, the ship and all friendly creatures aboard it teleport up to 3 miles to a known destination of the captain’s choice. Hostile creatures aboard the ship don’t move with the ship and fall into the water it once occupied. Once this item is used to teleport, it can’t teleport in this way again for 2d6 days.",
+          "max": "",
+          "id": "-MlGusuAcHVX2a0TzSeA"
+        }
+      ]
+    },
+    {
+      "name": "Storm Giant Figurehead",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusuBAnNsCpLJOEe7",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusuBAnNsCpLJOEe7_description",
+          "current": "This figurehead depicts a storm giant clutching a thunderbolt. As an action, the ship can activate this item to create a 60-foot cone that originates from the figurehead. Each creature in the cone must make DC 12 Constitution saving throw, taking 14 (4d6) thunder damage on a failed save, or half as much damage on a successful one. A creature that fails its saving throw is also pushed 10 feet away from the figurehead. Once a ship uses this action, it can’t use it again for 1 minute.",
+          "max": "",
+          "id": "-MlGusuBAnNsCpLJOEe8"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusuBAnNsCpLJOEe7_name",
+          "current": "Storm Giant Figurehead",
+          "max": "",
+          "id": "-MlGusuBAnNsCpLJOEe9"
+        }
+      ]
+    },
+    {
+      "name": "Taskmaster’s Drums",
+      "type": "NPC Trait",
+      "repeating_id": "-MlGusuCXjMoDqAsgpnZ",
+      "old_character_id": "-MlGtQEHpF4uU0vN2BJV",
+      "attributes": [
+        {
+          "name": "repeating_npctrait_-MlGusuCXjMoDqAsgpnZ_name",
+          "current": "Taskmaster’s Drums",
+          "max": "",
+          "id": "-MlGusuCXjMoDqAsgpna"
+        },
+        {
+          "name": "repeating_npctrait_-MlGusuCXjMoDqAsgpnZ_description",
+          "current": "This 4-foot-tall bronze drum comes with a pair of iron mallets. A creature can activate the drums as an action, causing the hammers to float above the drum and strike it to produce a thundering rhythm. For the next minute, the ship gains one additional action, as long as it has at least one action. Once this item is used, it can’t be activated again for 2d10 hours.",
+          "max": "",
+          "id": "-MlGusuCXjMoDqAsgpnb"
+        }
+      ]
+    }
+  ]
+}
