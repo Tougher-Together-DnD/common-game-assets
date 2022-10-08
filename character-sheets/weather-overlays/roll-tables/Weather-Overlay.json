@@ -1,0 +1,37 @@
+{
+    "name": "Weather-Overlay",
+    "showplayers": false,
+    "id": "-MlDZVXGHos6zCq7ygXw",
+    "items": {
+        "-MlD_rLF0ZuE5qC2E0tT": {
+            "avatar": "https://s3.amazonaws.com/files.d20.io/marketplace/736092/smhxYc88RFbNqooJ7N6yNg/med.webm?1553542617",
+            "id": "-MlD_rLF0ZuE5qC2E0tT",
+            "name": "Fog"
+        },
+        "-MlD_u7x1gBMFGBlE_9I": {
+            "avatar": "https://s3.amazonaws.com/files.d20.io/marketplace/736128/XbZ1ivMnRN2DZ62NJHx2mQ/med.webm?1553546318",
+            "id": "-MlD_u7x1gBMFGBlE_9I",
+            "name": "Rain Storm"
+        },
+        "-MlD_z0atA6o75k2qQIm": {
+            "avatar": "https://s3.amazonaws.com/files.d20.io/marketplace/736146/M8FuPW0aYXZZuU9WB7UMjw/med.webm?1553548262",
+            "id": "-MlD_z0atA6o75k2qQIm",
+            "name": "Rain (Top Down)"
+        },
+        "-MlDa1_8bTYsYgawTSfr": {
+            "avatar": "https://s3.amazonaws.com/files.d20.io/marketplace/736164/Uwu_a8u_ZsWaFCx_PbvWWA/med.webm?1553550786",
+            "id": "-MlDa1_8bTYsYgawTSfr",
+            "name": "Snow"
+        },
+        "-MlDa4mpRb4Je1NhaRMa": {
+            "avatar": "https://s3.amazonaws.com/files.d20.io/marketplace/736197/pcSpX-0jcsyAVNWsnFyngA/med.webm?1553552695",
+            "id": "-MlDa4mpRb4Je1NhaRMa",
+            "name": "Snow (Top Down)"
+        },
+        "-MlDa94q4LzTVw1nt6La": {
+            "avatar": "https://s3.amazonaws.com/files.d20.io/marketplace/736055/G209mDM0Hv809RD3BnpNXw/med.webm?1553539878",
+            "id": "-MlDa94q4LzTVw1nt6La",
+            "name": "Dust"
+        }
+    }
+}
